@@ -2,7 +2,8 @@
 
  ## Discord 
  [![Discord Presence](https://discord.c99.nl/widget/theme-2/769225935153004636.png)](https://discord.com/users/769225935153004636) 
-  
+  <iframe src="https:/cycloneaddons.is-a.dev" width="100%" height="500px" frameborder="0"></iframe>
+
  ## Here are my stats
  <br>
  <div align='left'> 
