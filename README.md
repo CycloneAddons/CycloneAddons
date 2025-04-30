@@ -1,23 +1,45 @@
-# Hey there, I'm CycloneAddons!
+# Hi, I'm CycloneAddons
 
-**Build. Automate. Innovate.**  
-Passionate full-stack and systems developer crafting high-performance solutions using **Node.js**, **Python**, **Rust**, and **MongoDB**.  
-From scalable backends to low-level magic — I love building things that work fast and work well.
+**Code. Automate. Create.**  
+Versatile developer building everything from web UIs to Discord bots and backend systems.  
+Skilled in **Node.js**, **Python**, **Rust**, **TypeScript**, **React**, and more.
 
 ---
 
-## 🚀 Tech Stack
+<a href="https://discord.com/users/769225935153004636">
+  <img src="https://discord.c99.nl/widget/theme-2/769225935153004636.png" style="border-radius: 12px;" />
+</a>
 
-**Languages:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+---
 
-**Databases & Tools:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+## ⚡ About Me
+
+- Passionate about automation, backend systems, and full-stack development  
+- Built **dozens of custom Discord bots** with advanced features  
+- Love working with tools like **MongoDB**, **Figma**, and **Vite**  
+- Always exploring new languages and frameworks  
+- Design-minded developer who writes code that looks as good as it runs
+
+---
+
+## 🚀 Tech & Tools
+
+**Languages & Frameworks:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+**Design & Tools:**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
@@ -26,8 +48,7 @@ From scalable backends to low-level magic — I love building things that work f
 <div align="left">
   <a href="https://github.com/CycloneAddons?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CycloneAddons&layout=compact&theme=github_dark&border_radius=10&card_width=370" />
-  </a>
-  <br>
+  </a><br>
   <a href="https://github.com/CycloneAddons">
     <img src="https://github-readme-stats.vercel.app/api?username=CycloneAddons&show_icons=true&theme=github_dark&border_radius=10&card_width=370" />
   </a>
@@ -35,11 +56,21 @@ From scalable backends to low-level magic — I love building things that work f
 
 ---
 
-## 💬 Connect With Me
+## 🤖 Discord Bots
 
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/users/769225935153004636)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/CycloneAddons/)
+Built multiple powerful Discord bots using:  
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+Used for moderation, automation, games, utilities, and real-time integrations.
 
 ---
 
-_“Coding isn’t just syntax – it’s solving, scaling, and simplifying.”_
+## 💬 Connect With Me
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/769225935153004636)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/CycloneAddons/)
+
+---
+
+_“I don't just write code — I build experiences, automate chaos, and turn ideas into action.”_
