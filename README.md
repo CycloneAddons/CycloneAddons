@@ -6,13 +6,6 @@ Skilled in **Node.js**, **Python**, **Rust**, **TypeScript**, **React**, and mor
 
 [![Discord Widget](https://discord.c99.nl/widget/theme-2/769225935153004636.png)](https://discord.com/users/769225935153004636)
 
-## ✓ About Me
-
-- Passionate about automation, backend systems, and full-stack development
-- Built **dozens of custom Discord bots** with advanced features
-- Love working with tools like **MongoDB**, **Figma**, and **Vite**
-- Always exploring new languages and frameworks
-- Design-minded developer who writes code that looks as good as it runs
 
 ## 🚀 Tech & Tools
 
