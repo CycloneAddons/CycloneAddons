@@ -34,7 +34,7 @@ Skilled in **Node.js**, **Python**, **Rust**, **TypeScript**, **React**, and mor
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)
 
 ---
 
