@@ -4,7 +4,7 @@
 Versatile developer building everything from web UIs to Discord bots and backend systems.  
 Skilled in **Node.js**, **Python**, **Rust**, **TypeScript**, **React**, and more.
 
-[![Discord Widget](https://discord.c99.nl/widget/theme-2/769225935153004636.png)](https://discord.com/users/769225935153004636)
+[![Discord Widget](https://dsc-readme.tsuni.dev/api/user/769225935153004636?banner=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F870556923051778072%2F1317126205387964436%2Fa_94a112319bbfc40261b7c9cc0f135711.gif%3Fex%3D6814cd5e%26is%3D68137bde%26hm%3D694cb169b19a89c3035dd7bb77be1e069d08b9d6f1e97b6873daa6f72ec6a390%26&theme=nitroDark&primaryColor=5865F2&accentColor=000000)](https://discord.com/users/769225935153004636)
 
 
 ## 🚀 Tech & Tools
