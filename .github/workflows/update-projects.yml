@@ -1,0 +1,58 @@
+name: Update Profile Projects
+
+on:
+  schedule:
+    # Run every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - "scripts/update_projects.py"
+      - ".github/workflows/update-projects.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-projects
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    name: Fetch Pinned & Top Repositories
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update README project and stats tables
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          README_PATH: README.md
+          MAX_PINNED: "6"
+          MAX_TOP_REPOS: "6"
+          INCLUDE_FORKS: "false"
+        run: python3 scripts/update_projects.py
+
+      - name: Commit and push updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "README.md is already up to date."
+          else
+            git commit -m "chore: auto-update pinned & top repositories"
+            git push
+          fi
+
