@@ -53,8 +53,6 @@ I'm **Deepesh Chakravarti** (`@CycloneAddons`) — a developer, open-source buil
 
 ## 🚀 Featured Projects
 
-> Auto-synced via [GitHub Actions](.github/workflows/update-projects.yml) every 12 hours — showcasing live **Pinned Projects** and **Top Starred & Forked Repositories**.
-
 <!-- PROJECTS:START -->
 ### 📌 Pinned Projects
 
